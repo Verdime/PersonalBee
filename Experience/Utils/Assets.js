@@ -16,6 +16,6 @@ export default[
     {
         name: "room",
         type: "glbModel",
-        path: "./Public/BeeWingedHammer.glb",
+        path: "./BeeWingedHammer.glb",
     },
 ]
